@@ -1,6 +1,6 @@
 <!-- Welcome Image -->
 <p align="center">
-  <img src="https://giphy.com/gifs/cyrilblondel-crypto-bitcoin-trading-xTrL2z0L8j4KeldZ2S" alt="Welcome" width="400"/>
+  <img src="https://media.giphy.com/media/xTrL2z0L8j4KeldZ2S/giphy.gif" alt="Welcome" width="400"/>
 </p>
 
 <!-- The About Me section -->
