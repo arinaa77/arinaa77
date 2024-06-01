@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  ## 💻 Programming Languages
+    💻 Programming Languages
 </p>
 
 <p align="center">
