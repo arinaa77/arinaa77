@@ -1,5 +1,5 @@
 <p align="center">
-    ## 👩‍💻 About Me
+    👩‍💻 About Me
 </p>
 
 <p align="center">
