@@ -1,5 +1,5 @@
 <p align="center">
-    <span style="font-size: 24px;">👩‍💻 About Me</span>
+    <span style="font-size: 30px;">👩‍💻 About Me</span>
 </p>
 
 <p align="center">
