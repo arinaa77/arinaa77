@@ -11,10 +11,10 @@
 
 <p align="center">
   🌟 <b>Passionate about combining business acumen with technical prowess to create innovative solutions.</b><br>
-  🌱 <b>Lifelong learner always on the lookout for new challenges and opportunities to grow.</b><br>
-  💬 <b>Fluent in Python, Java, C, and JavaScript. Always ready to geek out over the latest tech trends.</b><br>
-  🌏 <b>Global citizen with a love for traveling and exploring new cultures.</b><br>
-  🌐 <b>Tech enthusiast committed to making a positive impact through technology.</b><br>
+  🌱 <b>Lifelong learner</b> always on the lookout for new challenges and opportunities to grow.<br>
+  💬 <b>Fluent in Python, Java, C, and JavaScript.</b> Always ready to geek out over the latest tech trends.<br>
+  🌏 <b>Global citizen</b> with a love for traveling and exploring new cultures.<br>
+  🌐 <b>Tech enthusiast</b> committed to making a positive impact through technology.<br>
 </p>
 
 <!-- Profile links -->
@@ -39,7 +39,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<!-- GitHub Stats section -->
+<!-- Interests Section -->
+<div align="center">
+  <h2 style="font-size: 32px;">🌟 Interests</h2>
+</div>
+
+<p align="center">
+  - Traveling: Exploring new places and cultures.<br>
+  - Photography: Capturing moments through the lens.<br>
+  - Reading: Delving into science fiction and tech literature.<br>
+</p>
+
+
+<!-- GitHub Stats section (commented because the Stats doesn't look good for now)
 <div align="center">
   <h2 style="font-size: 32px;">📈 My GitHub Stats</h2>
 </div>
@@ -47,18 +59,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arinaa77&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
-<!--
-**arinaa77/arinaa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
