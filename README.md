@@ -1,5 +1,5 @@
 <p align="center">
-    <span style="font-size: 30px;">👩‍💻 About Me</span>
+    <h2 style="font-size: 32px;">👩‍💻 About Me</h2>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <span style="font-size: 24px;">💻 Programming Languages</span>
+    <h2 style="font-size: 32px;">💻 Programming Languages</h2>
 </p>
 
 <p align="center">
