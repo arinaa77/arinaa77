@@ -1,3 +1,8 @@
+<!-- Welcome Image -->
+<p align="center">
+  <img src="https://giphy.com/gifs/cyrilblondel-crypto-bitcoin-trading-xTrL2z0L8j4KeldZ2S" alt="Welcome" width="400"/>
+</p>
+
 <!-- The About Me section -->
 <div align="center">
     <h2 style="font-size: 32px;">👩‍💻 About Me</h2>
@@ -12,7 +17,6 @@
 <p align="center">
   🌟 <b>Passionate about combining business acumen with technical prowess to create innovative solutions.</b><br>
   🌱 <b>Lifelong learner</b> always on the lookout for new challenges and opportunities to grow.<br>
-  💬 <b>Fluent in Python, Java, C, and JavaScript.</b> Always ready to geek out over the latest tech trends.<br>
   🌏 <b>Global citizen</b> with a love for traveling and exploring new cultures.<br>
   🌐 <b>Tech enthusiast</b> committed to making a positive impact through technology.<br>
 </p>
@@ -45,9 +49,9 @@
 </div>
 
 <p align="center">
-  - Traveling: Exploring new places and cultures.<br>
-  - Photography: Capturing moments through the lens.<br>
-  - Reading: Delving into science fiction and tech literature.<br>
+  ✈️ Traveling: Exploring new places and cultures.<br>
+  📷 Photography: Capturing moments through the lens.<br>
+  📚 Reading: Delving into science fiction and tech literature.<br>
 </p>
 
 
