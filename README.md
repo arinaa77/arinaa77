@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
     <h2 style="font-size: 32px;">👩‍💻 About Me</h2>
-</p>
+</div>
 
 <p align="center">
 💡🌐 I thrive on leveraging technology to solve complex problems and drive impactful projects, and I’m excited to connect with professionals who share my enthusiasm for innovation and technology.<br>
@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
     <h2 style="font-size: 32px;">💻 Programming Languages</h2>
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
