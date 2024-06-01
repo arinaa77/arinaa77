@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👩‍💻 About Me
+
+💡🌐 I thrive on leveraging technology to solve complex problems and drive impactful projects, and I’m excited to connect with professionals who share my enthusiasm for innovation and technology. Let’s inspire and learn from each other!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yihanwang77/))
 
 <!--
 **arinaa77/arinaa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
